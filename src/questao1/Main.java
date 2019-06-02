@@ -1,3 +1,4 @@
+package questao1;
 import util.Sorts;
 import util.Timer;
 

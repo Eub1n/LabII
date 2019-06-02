@@ -1,3 +1,4 @@
+package questao1;
 public class CArvBin {
 
     class CNo {
